@@ -1,0 +1,5 @@
+﻿  Censor.cpp
+C:\Users\Matthlux\source\repos\Censor\Censor\Censor.cpp(72,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matthlux\source\repos\Censor\Censor\Censor.cpp(86,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Matthlux\source\repos\Censor\Censor\Censor.cpp(116,35): warning C4018: '<': signed/unsigned mismatch
+  Censor.vcxproj -> C:\Users\Matthlux\source\repos\Censor\Debug\Censor.exe

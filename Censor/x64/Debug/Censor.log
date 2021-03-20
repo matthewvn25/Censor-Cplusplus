@@ -1,0 +1,8 @@
+﻿  Censor.cpp
+C:\Users\Matthlux\Documents\GitHub\Censor-Cplusplus\Censor\Censor.cpp(83,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Matthlux\Documents\GitHub\Censor-Cplusplus\Censor\Censor.cpp(91,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Matthlux\Documents\GitHub\Censor-Cplusplus\Censor\Censor.cpp(112,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Matthlux\Documents\GitHub\Censor-Cplusplus\Censor\Censor.cpp(130,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+  Censor.vcxproj -> C:\Users\Matthlux\Documents\GitHub\Censor-Cplusplus\x64\Debug\Censor.exe
